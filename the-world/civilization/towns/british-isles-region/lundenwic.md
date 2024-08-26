@@ -8,7 +8,7 @@ description: Town
 
 Lundenwic was created on August 13, 2024, by Tatataat. The town is situated on the eastern part of the [British Isles](./), with an outpost to the west.
 
-The main town is located on an island just off the coast, and there is an outpost nearby on the mainland.
+The main town is located along the river Thames on Britain's eastern shore with an outpost at sea. Lundenwic joined the North Sea League when it was founded. 
 
 The town was partly founded by [SeeYouMan](../../players/seeyouman.md). It happened because [SeeYouMan](../../players/seeyouman.md) wanted to try out Mjölner[^1]. With Tatataat reassured that the experience points would not be destroyed, [SeeYouMan](../../players/seeyouman.md) went ahead and killed Tatataat. Everything went to plan and Tatataat could reclaim the experience points. However, during a second experiment, something went wrong and Tatataat could not reclaim the experience points. As a result, [SeeYouMan](../../players/seeyouman.md) gifted Tatataat €250, thus partly founding the town.
 
